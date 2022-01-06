@@ -71,6 +71,13 @@ p {
   font-size: 20px;
   /* 文字粗细（可代替<b>） */
   font-weight: bold|bolder|200|300|400|500;
+
+  /* 不渲染（不显示不占位） */
+  display: none;
+
+  /* 渲染（不显示但是占位） */
+  display: hidden;
+
   /* 手动定义该标签为块还是行内 */
   display: block;
   display: inline;
@@ -80,6 +87,9 @@ p {
   /* 块元素专属 */
   height: 100px;
   width: 100px;
+
+  /* 内容过多时的处理 父元素必须具有指定高度*/
+  overflow: hidden|scroll|auto;
 
   background-color: #77ccff;
   /* 边框 */
@@ -131,3 +141,7 @@ p {
   </style>
 </html>
 ```
+
+### 伪类
+
+### flex
