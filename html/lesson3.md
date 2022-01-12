@@ -33,11 +33,21 @@
 
 ## 响应式 自适应
 
+### 响应式
+
+页面元素根据窗口宽度锚点的变化进行变化
+
+### 自适应
+
+页面元素根据窗口变化对应实时进行变化
+
 ### flex
 
 标准教程
 https://www.ruanyifeng.com/blog/2015/07/flex-grammar.html
 
 ### 关于 bootstrap
+
+#### 库 组件库
 
 https://v3.bootcss.com/
