@@ -32,8 +32,11 @@
 
 F12 控制台
 
+<<<<<<< HEAD
 css html 扫盲完成
 
+=======
+>>>>>>> 2af83986a79f3f349bf50999da89a8f66ce0cf3a
 ## 学 JavaScript
 
 ### 认识 JavaScript
