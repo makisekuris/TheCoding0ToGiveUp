@@ -32,6 +32,8 @@
 
 F12 控制台
 
+css html 扫盲完成
+
 ## 学 JavaScript
 
 ### 认识 JavaScript
